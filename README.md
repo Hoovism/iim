@@ -1,2 +1,2 @@
 # iim
-Henk Penning's iim
+Henk Penning's CPAN Instant Mirroring Client
